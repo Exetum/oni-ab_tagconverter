@@ -7,3 +7,4 @@ C:\Users\rayra\Source\Repos\Exetum\oni-ab_tagconverter\oni-ab_tag\obj\Release\on
 C:\Users\rayra\Source\Repos\Exetum\oni-ab_tagconverter\oni-ab_tag\obj\Release\oni-ab_tag.csproj.CoreCompileInputs.cache
 C:\Users\rayra\Source\Repos\Exetum\oni-ab_tagconverter\oni-ab_tag\obj\Release\oni-ab_tag.exe
 C:\Users\rayra\Source\Repos\Exetum\oni-ab_tagconverter\oni-ab_tag\obj\Release\oni-ab_tag.pdb
+C:\Users\rayra\Source\Repos\Exetum\oni-ab_tagconverter\oni-ab_tag\obj\Release\oni-ab_tag.csproj.AssemblyReference.cache
