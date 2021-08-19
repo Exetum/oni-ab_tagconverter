@@ -1,0 +1,10 @@
+C:\Users\rayra\Source\Repos\Exetum\oni-ab_tagconverter\oni-ab_tag\bin\Debug\oni-ab_tag.exe.config
+C:\Users\rayra\Source\Repos\Exetum\oni-ab_tagconverter\oni-ab_tag\bin\Debug\oni-ab_tag.exe
+C:\Users\rayra\Source\Repos\Exetum\oni-ab_tagconverter\oni-ab_tag\bin\Debug\oni-ab_tag.pdb
+C:\Users\rayra\Source\Repos\Exetum\oni-ab_tagconverter\oni-ab_tag\obj\Debug\oni-ab_tag.csproj.AssemblyReference.cache
+C:\Users\rayra\Source\Repos\Exetum\oni-ab_tagconverter\oni-ab_tag\obj\Debug\oni_ab_tag.Form1.resources
+C:\Users\rayra\Source\Repos\Exetum\oni-ab_tagconverter\oni-ab_tag\obj\Debug\oni_ab_tag.Properties.Resources.resources
+C:\Users\rayra\Source\Repos\Exetum\oni-ab_tagconverter\oni-ab_tag\obj\Debug\oni-ab_tag.csproj.GenerateResource.cache
+C:\Users\rayra\Source\Repos\Exetum\oni-ab_tagconverter\oni-ab_tag\obj\Debug\oni-ab_tag.csproj.CoreCompileInputs.cache
+C:\Users\rayra\Source\Repos\Exetum\oni-ab_tagconverter\oni-ab_tag\obj\Debug\oni-ab_tag.exe
+C:\Users\rayra\Source\Repos\Exetum\oni-ab_tagconverter\oni-ab_tag\obj\Debug\oni-ab_tag.pdb

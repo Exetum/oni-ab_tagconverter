@@ -19,4 +19,14 @@ namespace oni_ab_tag
             Application.Run(new Form1());
         }
     }
+
+   
+
+
+    public class Tag
+    {
+        public string TagName { set; get; }
+        public string TagType { set; get; }
+    }
+
 }
